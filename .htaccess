@@ -1,0 +1,4 @@
+ErrorDocument 500 http://thebesacademy.tk/assets/error.php
+ErrorDocument 404 /assets/error.php
+ErrorDocument 401 /assets/error.php
+ErrorDocument 403 /index.php
